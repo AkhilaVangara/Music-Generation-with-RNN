@@ -7,7 +7,7 @@ Music Generation using Char-RNN. This program trains on data in the form of abc 
 Use any data in abc format (.txt) and name it 'Data_tunes.txt'. Run the notebook with this and it will output a fresh sequence of notes as music.
 
 ## Authors
-Akhila Vangara
-Leon Leitao
-Marc Vigneron
-Pragya Singh
+- Akhila Vangara
+- Leon Leitao
+- Marc Vigneron
+- Pragya Singh
